@@ -1,0 +1,40 @@
+{
+  "cities": [
+    {
+      "cityName": "Kabul",
+      "country": "Afghanistan",
+      "emoji": "🇦🇫",
+      "date": "2027-10-31T15:59:59.138Z",
+      "notes": "My favorite city so far!",
+      "position": {
+        "lat": 34.5553,
+        "lng": 69.2075
+      },
+      "id": "73930385"
+    },
+    {
+      "id": "a6e7",
+      "cityName": "Muniesa",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-08-09T05:57:11.345Z",
+      "notes": "ssss",
+      "position": {
+        "lat": "41.047388351433426",
+        "lng": "-0.771663620622829"
+      }
+    },
+    {
+      "id": "aea7",
+      "cityName": "Rome",
+      "country": "Italy",
+      "emoji": "🇮🇹",
+      "date": "2024-08-09T06:00:41.327Z",
+      "notes": "asdf",
+      "position": {
+        "lat": "42.03650482096803",
+        "lng": "12.919921875000002"
+      }
+    }
+  ]
+}
