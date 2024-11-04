@@ -13,8 +13,6 @@ import { useCities } from "../contexts/CitiesContext";
 import { useGeolocation } from "../hooks/useGeolocation";
 import Button from "./Button";
 import { useURLPosition } from "../hooks/useURLPosition";
-import { convertToEmoji } from "./Form";
-// import convertToEmoji from "./Form";
 
 function Map() {
   const [mapPosition, setMapPosition] = useState([40, 0]);
